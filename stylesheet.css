@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'UnitSlabOT-ThinIta';
+    src: url('UnitSlabOT-ThinIta.eot');
+    src: url('UnitSlabOT-ThinIta.eot?#iefix') format('embedded-opentype'),
+        url('UnitSlabOT-ThinIta.woff2') format('woff2'),
+        url('UnitSlabOT-ThinIta.woff') format('woff'),
+        url('UnitSlabOT-ThinIta.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UnitSlabOT-Ultra';
+    src: url('UnitSlabOT-Ultra.eot');
+    src: url('UnitSlabOT-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('UnitSlabOT-Ultra.woff2') format('woff2'),
+        url('UnitSlabOT-Ultra.woff') format('woff'),
+        url('UnitSlabOT-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UnitSlabOT';
+    src: url('UnitSlabOT-Thin.eot');
+    src: url('UnitSlabOT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('UnitSlabOT-Thin.woff2') format('woff2'),
+        url('UnitSlabOT-Thin.woff') format('woff'),
+        url('UnitSlabOT-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UnitSlabOT';
+    src: url('UnitSlabOT-Black.eot');
+    src: url('UnitSlabOT-Black.eot?#iefix') format('embedded-opentype'),
+        url('UnitSlabOT-Black.woff2') format('woff2'),
+        url('UnitSlabOT-Black.woff') format('woff'),
+        url('UnitSlabOT-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UnitSlabOT-UltraIta';
+    src: url('UnitSlabOT-UltraIta.eot');
+    src: url('UnitSlabOT-UltraIta.eot?#iefix') format('embedded-opentype'),
+        url('UnitSlabOT-UltraIta.woff2') format('woff2'),
+        url('UnitSlabOT-UltraIta.woff') format('woff'),
+        url('UnitSlabOT-UltraIta.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UnitSlabOT-BlackIta';
+    src: url('UnitSlabOT-BlackIta.eot');
+    src: url('UnitSlabOT-BlackIta.eot?#iefix') format('embedded-opentype'),
+        url('UnitSlabOT-BlackIta.woff2') format('woff2'),
+        url('UnitSlabOT-BlackIta.woff') format('woff'),
+        url('UnitSlabOT-BlackIta.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
